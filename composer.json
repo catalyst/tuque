@@ -18,7 +18,7 @@
     "ext-xml": "*",
     "ext-xsl": "*",
     "ext-mbstring": "*",
-    "guzzlehttp/guzzle": "^6.2"
+    "guzzlehttp/guzzle": "^6.2 || ^7"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.8.35",
